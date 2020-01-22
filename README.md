@@ -4,13 +4,13 @@ The **Components** dir contains all of the components used for my portfolio webs
 **COMPONENTS TREE**
 - App
   - Accordion 
-      - AccordionSection
+      -AccordionSection
     - About
     - Fullstack
     - Graphs
     - Search
       - Country
-        -Region
+        - Region
     - Database
       - DatabaseTool
         - DatabaseResult
